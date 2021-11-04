@@ -1,0 +1,5 @@
+name: Rest Plugin
+description: Rest plugin for getting user details
+type: module
+core: 8.x
+version: 1.0
